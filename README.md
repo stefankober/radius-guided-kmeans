@@ -6,7 +6,9 @@ This repository provides a reference implementation of **radius-guided k-means**
 
 This repository accompanies the article:
 
-*Radius-Guided Post-Processing for K-Means Clustering*  (submitted for review on arXiv)
+*Radius-Guided Post-Processing for K-Means Clustering*
+
+[https://arxiv.org/abs/2504.20293](https://arxiv.org/abs/2504.20293)
 
 ## Core Idea
 
